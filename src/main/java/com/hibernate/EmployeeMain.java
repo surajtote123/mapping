@@ -9,6 +9,8 @@ public class EmployeeMain {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("mapping start");
+		
 		Configuration cfg=new Configuration();
 		
 		cfg.configure();
